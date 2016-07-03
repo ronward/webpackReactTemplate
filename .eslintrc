@@ -1,0 +1,36 @@
+{
+  "ecmaFeatures":{
+    "arrowFunctions":true,
+    "binaryLiterals":false,
+    "blockBindings":true,
+    "classes":false,
+    "defaultParams":false,
+    "destructuring":true,
+    "forOf":true,
+    "generators":true,
+    "modules":false,
+    "objectLiteralComputedProperties":false,
+    "objectLiteralDuplicateProperties":false,
+    "objectLiteralShorthandMethods":true,
+    "objectLiteralShorthandProperties":true,
+    "octalLiterals":false,
+    "restParams":true,
+    "spread":true,
+    "superInFunctions":false,
+    "templateStrings":true,
+    "jsx": true
+  },
+  "rules":{
+    "curly":2,
+    "block-scoped-var":2,
+    "no-redeclare":2,
+    "vars-on-top":2,
+    "no-undef":2,
+    "no-use-before-define":2,
+    "one-var":0,
+    "eqeqeq":2,
+    "dot-notation":2,
+    "strict":[2, "function"]
+  }
+}
+
